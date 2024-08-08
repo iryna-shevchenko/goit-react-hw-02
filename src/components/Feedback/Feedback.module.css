@@ -1,0 +1,9 @@
+.stat {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hr {
+  padding: 5px 0;
+  border-top: 1px dashed #3a7999;
+}
